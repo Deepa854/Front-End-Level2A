@@ -12,6 +12,7 @@ Features
 1.1 Header
 Title: "Book Library"
 Subtitle: "Manage Your Book Collection"
+
 1.2 Input Form
 Fields:
 Book Title
@@ -19,13 +20,16 @@ Author
 Publication Year
 Button: "Add Book"
 Functionality: Adds a new book to the library.
+
 1.3 Book List
 Dynamic View Creation: Each added book dynamically creates a list item displaying title, author, and publication year.
 Removal Button: Each book entry includes a "Remove" button to delete the book from the library.
+
 Technical Specifications
 HTML
 Bootstrap for responsive design.
 JavaScript for dynamic view creation and removal.
+
 Conclusion
 The Book Library Application PRD outlines the key features and specifications for the development of a user-friendly platform that enables users
  to manage their book collections efficiently. By incorporating an intuitive library page, users can seamlessly add, view, and remove books.
@@ -35,7 +39,9 @@ Style Guide
 
 Colors
 Primary Color: #007bff (Primary Blue) - Used for the "Add Book" button.
+
 Secondary Color: #dc3545 (Danger Red) - Used for the "Remove" button.
+
 Typography
 Heading Font: Use the default Bootstrap heading font.
 Body Text Font: Use the default Bootstrap body font.
